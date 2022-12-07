@@ -6,3 +6,5 @@ data/*
 data/*
 data/*
 data/*
+run_experiment.py
+__pycache__/*
