@@ -1,10 +1,4 @@
 *.svg
 data/*
-data/*
-data/*
-data/*
-data/*
-data/*
-data/*
-run_experiment.py
 __pycache__/*
+experiment/*
