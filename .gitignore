@@ -2,3 +2,12 @@
 data/*
 __pycache__/*
 experiment/*
+exp_shuffles/*
+*/*.png
+plots*/
+undirected/
+plotty.ipynb
+*_old.ipynb
+times.txt
+erdos_dir_3/
+configuration_dir_3/
